@@ -1,12 +1,12 @@
 {
-    "name": "puleeno-cms/text-editor",
+    "name": "jackal-cms/text-editor",
     "description": "WYSIWYG editor support multi format: HTML, Markdown",
     "type": "project",
     "license": "MIT",
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "PuleenoCMS\\TextEditor\\": "src/"
+            "Jackal\\Extension\\TextEditor\\": "src/"
         }
     },
     "authors": [
@@ -19,5 +19,5 @@
     "config": {
         "vendor-dir": "libs"
     },
-    "extension-class": "PuleenoCMS\\TextEditor\\TextEditorExtension"
+    "extension-class": "Jackal\\Extension\\TextEditor\\TextEditorExtension"
 }

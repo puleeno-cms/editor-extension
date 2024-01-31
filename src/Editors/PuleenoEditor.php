@@ -1,12 +1,12 @@
 <?php
 
-namespace PuleenoCMS\TextEditor\Editors;
+namespace Jackal\Extension\TextEditor\Editors;
 
-use PuleenoCMS\TextEditor\Abstracts\Editor;
+use Jackal\Extension\TextEditor\Abstracts\Editor;
 
 /**
  * @link https://milkdown.dev/
  */
-class PuleenoEditor extends Editor
+class JackalEditor extends Editor
 {
 }

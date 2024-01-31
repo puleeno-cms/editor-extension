@@ -1,8 +1,8 @@
 <?php
 
-namespace PuleenoCMS\TextEditor\Abstracts;
+namespace Jackal\Extension\TextEditor\Abstracts;
 
-use PuleenoCMS\TextEditor\Interfaces\EditorInterface;
+use Jackal\Extension\TextEditor\Interfaces\EditorInterface;
 
 abstract class Editor implements EditorInterface
 {

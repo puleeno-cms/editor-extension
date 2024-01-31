@@ -1,6 +1,6 @@
 <?php
 
-namespace PuleenoCMS\TextEditor;
+namespace Jackal\Extension\TextEditor;
 
 use App\Core\Extension;
 

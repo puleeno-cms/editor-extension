@@ -1,6 +1,6 @@
 <?php
 
-namespace PuleenoCMS\TextEditor\Interfaces;
+namespace Jackal\Extension\TextEditor\Interfaces;
 
 interface EditorInterface
 {

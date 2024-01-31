@@ -1,6 +1,6 @@
 <?php
 
-namespace PuleenoCMS\TextEditor\Editors;
+namespace Jackal\Extension\TextEditor\Editors;
 
 class EditorJS
 {
