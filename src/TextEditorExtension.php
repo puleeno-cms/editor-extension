@@ -2,7 +2,7 @@
 
 namespace Jackal\Extension\TextEditor;
 
-use App\Core\Extension;
+use Jackal\Jackal\Extension;
 
 class TextEditorExtension extends Extension
 {
