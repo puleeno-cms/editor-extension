@@ -9,12 +9,12 @@ class ComposerStaticInit1c758a279a798c0ae126182f12779dba
     public static $prefixLengthsPsr4 = array (
         'J' => 
         array (
-            'Jackal\\Extension\\TextEditor\\' => 28,
+            'Quagga\\Extension\\TextEditor\\' => 28,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Jackal\\Extension\\TextEditor\\' => 
+        'Quagga\\Extension\\TextEditor\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

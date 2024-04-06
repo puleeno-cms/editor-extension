@@ -1,8 +1,8 @@
 <?php
 
-namespace Jackal\Extension\TextEditor;
+namespace Quagga\Extension\TextEditor;
 
-use Jackal\Jackal\Extension;
+use Quagga\Quagga\Extension;
 
 class TextEditorExtension extends Extension
 {

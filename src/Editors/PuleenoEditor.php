@@ -1,12 +1,12 @@
 <?php
 
-namespace Jackal\Extension\TextEditor\Editors;
+namespace Quagga\Extension\TextEditor\Editors;
 
-use Jackal\Extension\TextEditor\Abstracts\Editor;
+use Quagga\Extension\TextEditor\Abstracts\Editor;
 
 /**
  * @link https://milkdown.dev/
  */
-class JackalEditor extends Editor
+class QuaggaEditor extends Editor
 {
 }

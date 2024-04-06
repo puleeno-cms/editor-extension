@@ -1,6 +1,6 @@
 <?php
 
-namespace Jackal\Extension\TextEditor\Editors;
+namespace Quagga\Extension\TextEditor\Editors;
 
 class EditorJS
 {

@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Jackal\\Extension\\TextEditor\\' => array($baseDir . '/src'),
+    'Quagga\\Extension\\TextEditor\\' => array($baseDir . '/src'),
 );

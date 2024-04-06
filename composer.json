@@ -1,12 +1,12 @@
 {
-    "name": "jackal-cms/text-editor",
+    "name": "quagga/text-editor",
     "description": "WYSIWYG editor support multi format: HTML, Markdown",
     "type": "project",
     "license": "MIT",
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Jackal\\Extension\\TextEditor\\": "src/"
+            "Quagga\\Extension\\TextEditor\\": "src/"
         }
     },
     "authors": [
@@ -19,5 +19,5 @@
     "config": {
         "vendor-dir": "libs"
     },
-    "extension-class": "Jackal\\Extension\\TextEditor\\TextEditorExtension"
+    "extension-class": "Quagga\\Extension\\TextEditor\\TextEditorExtension"
 }

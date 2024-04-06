@@ -1,6 +1,6 @@
 <?php
 
-namespace Jackal\Extension\TextEditor\Interfaces;
+namespace Quagga\Extension\TextEditor\Interfaces;
 
 interface EditorInterface
 {
